@@ -37,5 +37,5 @@ It helps in performance evaluation and talent identification.
 
 The dashboard improves sports analytics and match insights.
 
-This project demonstrates an end-to-end data analytics pipeline from raw sports data to actionable insights.![202503181532IPL-2025-ALL-CAPTIAN](<img width="889" height="495" alt="ipl2" src="https://github.com/user-attachments/assets/5d1c2609-a103-45c4-92d9-a6a4de9922d0" />
-)
+This project demonstrates an end-to-end data analytics pipeline from raw sports data to actionable insights.<img width="889" height="495" alt="ipl2" src="https://github.com/user-attachments/assets/ddbdf8e5-a7f9-43f4-bdb7-407aacb29832" />
+
